@@ -19,10 +19,10 @@ for (int i = 0; i < listOfFiles.length; i++)
 
 //println "${list}"
 
-def verif (list){
+/*def verif (list){
     if(list.contains(STAGE_NAME) == false)
         return true
-}
+}*/
 
 
 
