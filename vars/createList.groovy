@@ -17,7 +17,7 @@ File[] listOfFiles = folder.listFiles();
 for (int i = 0; i < listOfFiles.length; i++) 
     list.add(listOfFiles[i].getName())
 
-println "${list}"
+//println "${list}"
 
 def verif (list){
     if(list.contains(STAGE_NAME) == false)
